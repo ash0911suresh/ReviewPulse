@@ -111,8 +111,4 @@ Dashboard at `http://localhost:5173`
 
 See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for full design notes.
 
----
 
-## Hours spent
-
-~9 hours with AI assistance (Claude).
